@@ -16,7 +16,7 @@
                         </manifest>
                     </archive>
                     <descriptorRefs>
-                        <descriptorRef>for-jenkins</descriptorRef>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
                     <finalName>executable</finalName>
                 </configuration>
